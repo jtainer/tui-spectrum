@@ -1,0 +1,3 @@
+[submodule "fft"]
+	path = fft
+	url = git@github.com:jtainer/fft.git
